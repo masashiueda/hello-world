@@ -1,3 +1,4 @@
+Konnichiwa
 test
 B
 # hello-world
